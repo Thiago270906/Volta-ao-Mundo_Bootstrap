@@ -1,0 +1,57 @@
+* {
+    font-family:Arial, Helvetica, sans-serif
+}
+/* Nav-Bar */
+.navbar {
+    box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+}
+.navbar .nav-link.c1 {
+color: #000000;
+}
+.navbar .nav-link.c1:hover {
+color: #404040;
+}
+.nav-pills .nav-link.c1.active {
+    color: white;
+    background-color: #000000;
+}
+.navbar .nav-link.c2 {
+    color: #cd0404;
+}
+.navbar .nav-link.c2:hover {
+    color: #a40000;
+}
+.nav-pills .nav-link.c2.active {
+    color: white;
+    background-color: #cd0404;
+}
+.navbar .nav-link.c3 {
+    color: #e0cf19;
+}
+.navbar .nav-link.c3:hover {
+    color: #b7a809;
+}
+.nav-pills .nav-link.c3.active {
+    color: white;
+    background-color: #decd0a;
+}
+/* Principal Index */
+.bg-alemanha {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+                url('imagens/bem-vindo-alemanha.jpg') center/cover no-repeat;
+    height: 500px;
+}
+.carousel-item {
+    height: 50vh;
+    max-height: 500px;
+    width: 520px;
+}
+
+.carousel-item img {
+    height: 100%;
+    object-fit: cover;
+}
+.bg-bandeira {
+    background:url('imagens/bandeira-alemanha.png') center/cover no-repeat;
+    height: 500px;
+}
