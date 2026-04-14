@@ -33,7 +33,7 @@ color: #404040;
 }
 .nav-pills .nav-link.c3.active {
     color: white;
-    background-color: #decd0a;
+    background-color: #e0cf19;
 }
 /* Principal Index */
 .bg-alemanha {
@@ -54,4 +54,16 @@ color: #404040;
 .bg-bandeira {
     background:url('imagens/bandeira-alemanha.png') center/cover no-repeat;
     height: 500px;
+}
+.fundo1 {
+    color: white;
+    background-color: #000000;
+}
+.fundo2 {
+    color: white;
+    background-color: #a40000;
+}
+.fundo3 {
+    color: white;
+    background-color: #b7a809;
 }
