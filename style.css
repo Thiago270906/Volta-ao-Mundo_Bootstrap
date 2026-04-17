@@ -44,7 +44,7 @@ color: #404040;
 .indexbox.carousel-item {
     height: 50vh;
     max-height: 500px;
-    width: 520px;
+    max-width: 520px;
 }
 
 .carousel-item img {
